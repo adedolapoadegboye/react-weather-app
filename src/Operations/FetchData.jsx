@@ -1,7 +1,7 @@
 import { useEffect, React } from "react";
 
 const weatherAPI = "https://api.openweathermap.org/data/3.0/onecall?";
-const weatherAPIKEY = "appid=3d08a4c1789c257750cbb113097b1cef";
+const weatherAPIKEY = "appid={insert Keys here}";
 const units = "metric";
 
 const FetchData = ({lat, lon, child2parent}) => {

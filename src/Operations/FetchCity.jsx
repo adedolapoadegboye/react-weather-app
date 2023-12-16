@@ -1,7 +1,7 @@
 import { useEffect, React } from "react";
 
 const cityAPI = "https://api.openweathermap.org/geo/1.0/direct?";
-const weatherAPIKEY = "appid=3d08a4c1789c257750cbb113097b1cef";
+const weatherAPIKEY = "{insert Keys here}";
 /* const input = "ilorin"; */
 const limit = "1";
 
